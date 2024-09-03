@@ -174,7 +174,8 @@ dimension_descriptions = [
 
 # Main function to run the analysis
 def main():
-    filepath = "/kaggle/input/270-riskofbias/270_RiskofBias_for_RobVis_2Low_Char_Only.csv"
+    # filepath = "/kaggle/input/270-riskofbias/270_RiskofBias_for_RobVis_2Low_Char_Only.csv"
+    filepath = "270_RiskofBias_for_RobVis_2Low_Char_Only.csv"
     df = load_data(filepath)
 
     # Explanation before plotting by risk level
