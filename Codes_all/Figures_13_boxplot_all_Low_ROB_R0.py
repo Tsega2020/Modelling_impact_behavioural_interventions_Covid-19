@@ -1,4 +1,4 @@
-############## Figure 13 box plots for 'R0' in both original and filtered (Low ROB) dataframes
+############## Figure 13 box plots for 'R0' in both original and filtered (Low ROB) data frames.
 ########
 import pandas as pd
 import matplotlib.pyplot as plt
