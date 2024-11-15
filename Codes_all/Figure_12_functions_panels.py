@@ -1,3 +1,5 @@
+# Figure 12 panels 1 and 2 side by side 
+# Word cloud for outcome measure results and Key finds using functions.
 import matplotlib.pyplot as plt
 import pandas as pd
 from wordcloud import WordCloud
