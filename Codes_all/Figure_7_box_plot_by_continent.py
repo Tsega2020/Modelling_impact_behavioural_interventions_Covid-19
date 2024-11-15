@@ -1,4 +1,4 @@
-# Python Code for Figure7_boxplot by continent.
+# Python Code for Figure 7 boxplot by continent.
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
