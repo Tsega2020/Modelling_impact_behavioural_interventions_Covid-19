@@ -1,4 +1,4 @@
-########### Figure 4: Percentage of Risk of Bias Assessment Across 15 Dimensions
+########### Figure 4: Summary plot of the Risk of Bias Assessment Across 15 Dimensions
 import pandas as pd
 import matplotlib.pyplot as plt
 
