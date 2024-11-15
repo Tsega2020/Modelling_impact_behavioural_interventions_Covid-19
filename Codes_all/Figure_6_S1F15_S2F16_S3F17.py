@@ -1,8 +1,13 @@
 # For Figure 6 and Supporting information (S1_Fig15, S2_Fig16, S3_Fig17)
-# Code for risk of bias assessment using two functions
-# Function 1: Function to sort and plot by risk level order 
-# Function 2: Function to sort and plot by ID order
+# Code for risk of bias assessment using functions
+# Function to sort and plot by risk level order 
+# Function to sort and plot by ID order
+# Function for Figure 6: Side-by-side plot of Chunk 1 and Chunk 6 
+# Function for S1_Fig15_Reportingbias: Percentage of Risk Levels for Reporting Bias 
+# Function for S2_Fig16_RoB-Chunk_1_2_3: Side-by-side plot of Chunks 1, 2, and 3 
+# Function for S3_Fig17_RoB-Chunk-4_5_6: Side-by-side plot of Chunks 4, 5, and 6
 # Existing imports and setup
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
